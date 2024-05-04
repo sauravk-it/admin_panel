@@ -1,0 +1,36 @@
+.con{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height:100vh;
+    background-color: #050816;
+}
+
+.logincard{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height:350px;
+    width: auto;
+    background-color: #639;
+}
+
+.loginimage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding:30px;
+    width: 400px;
+}
+
+.loginform{
+    padding: 50px;
+    min-height:350px;
+    width: 400px;
+}
+
+.modalbody{
+    background-color:white;
+}
